@@ -1,11 +1,12 @@
 ### Hi there 👋
 Welcome to Matthew Bonanno's GitHub Profile.
-Please excuse the mess, this page is still a work in progress.
 
-- Age: 25
 - 😄 Pronouns: He/Him/They
-- Programming Languages I've used: Java, C++, C, JavaScript, TypeScript, Python, C#, COBOL
-- Languages I want to learn in the future: Rust ... more to be added. There is always more to learn.
+- 👨🏻‍💻 Programming Languages I've used: Java, C++, C, JavaScript, TypeScript, Python, C#
+- 🌱 Languages I want to learn in the future: Rust ... more to be added. There is always more to learn.
+- 👯 I’m looking to collaborate on projects that improve productivity or make an impact.
+- ✨ My most popular projects: FastAsyncWorldEdit and PlotSquared.
+- 🔭 I’m currently working on a Windows Bluesky Client.
 <!--
 **MattBDev/MattBDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
